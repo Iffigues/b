@@ -1,4 +1,4 @@
-module b
+module github.com/Iffigues/b
 
 go 1.14
 
